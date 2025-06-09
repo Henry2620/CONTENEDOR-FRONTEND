@@ -34,20 +34,6 @@ Esta solución se basa en una aplicación real, perteneciente a mi proyecto de t
 
 ## 5. Estructura del proyecto
 
-AGENDAMIENTO/
-├── backend/
-│ ├── index.js
-│ ├── package.json
-│ └── Dockerfile
-├── frontend/
-│ ├── src/
-│ │ └── App.tsx
-│ ├── package.json
-│ └── Dockerfile
-└── docker-compose.yml
-
----
-
 <img src="captures\paso1.png" alt="drawing" width="500"/>
 
 ## 6. Backend: API REST en Node.js (Express)
